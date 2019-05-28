@@ -1,0 +1,42 @@
+first point found
+
+tangent vector to first point found
+label = LP, x = ( 0.460504 0.533765 0.232456 0.623890 0.402638 5.611911 )
+a=-1.181586e+01
+label = LP, x = ( 0.328339 0.451908 0.235358 0.623566 0.403430 4.673608 )
+a=9.103662e+00
+label = H , x = ( 0.005849 0.000129 0.251254 0.621839 0.004231 153.022568 )
+First Lyapunov coefficient = -1.154037e+00
+
+elapsed time  = 205.4 secs
+npoints curve = 1923
+
+
+first point found
+tangent vector to first point found
+label = BT , x = ( 0.462333 0.532312 0.380378 0.609759 0.431072 8.385804 0.552292 )
+(a,b)=(-7.688297e-01, -3.422680e+01)
+label = BT , x = ( 0.467001 0.528492 0.483786 0.601298 0.450984 9.184707 0.554679 )
+(a,b)=(4.670499e-01, -2.622401e+01)
+label = BT , x = ( 0.466244 0.529121 0.999961 0.397030 0.545316 9.509116 0.472628 )
+(a,b)=(2.043842e-05, -2.803798e-01)
+label = CP , x = ( 0.466244 0.529121 1.000000 -0.232961 0.545322 9.509117 0.472623 )
+c=0
+Current step size too small (point 82)
+elapsed time  = 46.3 secs
+npoints curve = 82
+
+first point found
+tangent vector to first point found
+label = CP , x = ( -0.000000 -0.000000 0.000000 0.992002 0.355627 10.104041 0.000000 )
+c=5.470258e-26
+Current step size too small (point 26)
+elapsed time  = 18.3 secs
+npoints curve = 26
+first point found
+tangent vector to first point found
+label = CP , x = ( 0.273529 0.315098 0.207148 0.626844 0.397937 4.228960 0.321551 )
+c=-1.425217e+01
+Current step size too small (point 31)
+elapsed time  = 2.9 secs
+npoints curve = 31

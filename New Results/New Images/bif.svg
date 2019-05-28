@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   preserveAspectRatio="xMinYMin meet"
+   width="100%"
+   height="100%"
+   viewBox="0 0 1800.000 863.438"
+   version="1.1"
+   id="svg3223"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bif.svg">
+  <metadata
+     id="metadata3446">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3444" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3442"
+     showgrid="false"
+     inkscape:zoom="0.87885424"
+     inkscape:cx="900"
+     inkscape:cy="431.719"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="topgroup" />
+  <desc
+     id="desc3225">Matlab Figure Converted by PLOT2SVG written by Juerg Schwizer</desc>
+  <g
+     id="topgroup">
+    <rect
+       x="0"
+       y="0"
+       width="1800.000"
+       height="863.438"
+       fill="#ffffff"
+       stroke="none"
+       id="rect3228" />
+    <g
+       id="ID000000">
+      <clipPath
+         id="ID000001">
+        <rect
+           x="182.679"
+           y="73.516998"
+           width="1403.728"
+           height="707.40698"
+           id="rect3232" />
+      </clipPath>
+      <polygon
+         points="1586.408,780.925 1586.408,73.517 182.679,73.517 182.679,780.925 "
+         id="polygon3234"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <polygon
+         points="1586.408,73.517 1586.408,73.517 182.679,73.517 182.679,73.517 "
+         id="polygon3236"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <polygon
+         points="182.679,780.925 182.679,73.517 182.679,73.517 182.679,780.925 "
+         id="polygon3238"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+      <g
+         id="g3240"
+         transform="translate(54.616566,4.5513805)">
+        <g
+           id="ID000002">
+          <g
+             transform="translate(883.606,822.064)"
+             id="g3243">
+            <g
+               id="g3245">
+              <text
+                 x="0"
+                 y="0"
+                 font-size="11pt"
+                 id="text3247"
+                 style="font-size:13.75px;text-anchor:middle;fill:#000000;font-family:Helvetica-Narrow">
+                <tspan
+                   style="font-size:20px;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+                   id="tspan4218">Inhibitory Coupling Strength</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="ID000003">
+          <g
+             transform="translate(149.392,428.158)"
+             id="g3250">
+            <g
+               transform="matrix(0,-1,1,0,0,0)"
+               id="g3252" />
+          </g>
+        </g>
+        <g
+           id="ID000004"
+           clip-path="url(#ID000001)">
+          <polyline
+             points="405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.043,307.856 405.042,307.857 405.027,307.881 404.966,307.973 404.694,308.390 404.271,309.036 403.716,309.883 402.923,311.088 401.853,312.708 400.438,314.839 398.580,317.618 396.145,321.227 392.955,325.900 388.772,331.936 383.273,339.716 376.024,349.718 366.424,362.541 353.638,378.931 336.468,399.826 313.150,426.457 280.976,460.675 237.362,504.970 213.956,530.673 201.839,547.694 195.794,562.975 195.489,565.028 195.373,566.293 195.311,567.746 195.308,568.162 195.314,568.706 195.348,569.608 195.428,570.650 195.568,571.799 195.780,573.036 196.082,574.365 196.497,575.797 197.056,577.349 197.798,579.040 198.779,580.890 200.065,582.919 201.748,585.147 203.941,587.594 206.792,590.281 210.488,593.225 215.265,596.443 221.421,599.946 229.322,603.743 239.416,607.832 252.241,612.206 268.423,616.841 288.673,621.696 313.764,626.695 344.496,631.695 379.613,636.182 412.266,639.237 442.774,641.039 471.402,641.754 498.366,641.672 523.849,641.152 548.006,640.467 570.966,639.765 592.843,639.111 613.735,638.527 633.726,638.016 652.891,637.577 671.295,637.201 688.997,636.884 706.047,636.618 722.494,636.397 738.376,636.218 753.733,636.074 768.598,635.963 783.001,635.881 796.970,635.825 810.531,635.792 823.706,635.781 836.517,635.789 848.984,635.815 861.125,635.857 872.956,635.913 884.492,635.983 895.749,636.066 906.739,636.160 917.474,636.265 927.966,636.379 938.227,636.503 948.265,636.635 958.090,636.775 967.712,636.922 977.138,637.077 986.376,637.237 995.434,637.404 1004.318,637.577 1013.036,637.755 1021.592,637.938 1029.993,638.125 1038.245,638.317 1046.353,638.513 1054.321,638.714 1062.155,638.918 1069.859,639.125 1077.436,639.336 1084.892,639.550 1092.230,639.767 1099.454,639.987 1106.566,640.210 1113.572,640.435 1120.473,640.663 1127.273,640.893 1133.974,641.125 1140.581,641.360 1147.094,641.596 1153.517,641.834 1159.852,642.075 1166.102,642.317 1172.269,642.560 1178.355,642.805 1184.362,643.052 1190.293,643.300 1196.148,643.550 1201.930,643.800 1207.642,644.052 1213.283,644.306 1218.857,644.560 1224.365,644.815 1229.808,645.072 1235.188,645.329 1240.506,645.588 1245.764,645.847 1250.963,646.107 1256.104,646.368 1261.189,646.630 1266.219,646.893 1271.195,647.156 1276.118,647.420 1280.989,647.684 1285.810,647.950 1290.581,648.215 1295.303,648.481 1299.978,648.748 1304.606,649.016 1309.189,649.283 1313.726,649.551 1318.220,649.820 1322.670,650.089 1327.078,650.358 1331.445,650.628 1335.771,650.898 1340.057,651.168 1344.304,651.439 1348.512,651.709 1352.682,651.980 1356.815,652.252 1360.912,652.523 1364.973,652.795 1368.998,653.066 1372.989,653.338 1376.946,653.610 1380.869,653.883 1384.760,654.155 1388.618,654.427 1392.444,654.700 1396.239,654.972 1400.003,655.244 1403.737,655.517 1407.441,655.790 1411.116,656.062 1414.761,656.335 1418.379,656.607 1421.968,656.880 1425.530,657.152 1429.064,657.424 1432.572,657.697 1436.054,657.969 1439.509,658.241 1442.939,658.513 1446.344,658.785 1449.724,659.056 1453.080,659.328 1456.411,659.599 1459.719,659.871 1463.003,660.142 1466.264,660.413 1469.503,660.683 1472.719,660.954 1474.172,661.077 1475.913,661.224 1479.084,661.494 1482.235,661.764 1485.364,662.034 1488.472,662.304 1491.560,662.573 1494.627,662.842 1497.674,663.110 1500.701,663.379 1503.708,663.647 1506.696,663.915 1509.665,664.182 1512.615,664.450 1515.546,664.717 1518.459,664.983 1521.354,665.250 1524.230,665.516 1527.090,665.782 1529.931,666.047 1532.755,666.312 1535.562,666.577 1538.353,666.841 1541.126,667.105 1543.883,667.368 1546.624,667.632 1549.349,667.895 1552.057,668.157 1554.750,668.419 1557.428,668.681 1560.090,668.942 1562.737,669.203 1565.369,669.463 1567.986,669.724 1570.588,669.983 1573.176,670.242 1575.749,670.501 1578.309,670.760 1580.854,671.018 1583.385,671.275 1585.903,671.532 1588.407,671.789 1590.897,672.045 1593.374,672.301 1595.838,672.556 1598.289,672.811 1600.728,673.065 1603.153,673.319 1605.566,673.572 1607.966,673.825 1610.354,674.077 1612.730,674.329 1615.093,674.581 1617.445,674.832 1619.784,675.082 1622.112,675.332 1624.429,675.581 1626.734,675.830 1629.027,676.079 1631.309,676.327 1633.580,676.574 1635.840,676.821 1638.089,677.068 1640.327,677.313 1642.555,677.559 1644.771,677.804 1646.977,678.048 1649.173,678.292 1651.358,678.535 1653.534,678.778 1655.699,679.020 1657.853,679.262 1659.998,679.503 1662.133,679.743 1664.259,679.983 1666.374,680.223 1668.480,680.462 1670.577,680.700 1672.664,680.938 1674.741,681.176 1676.810,681.412 1678.869,681.649 1680.919,681.884 1682.960,682.119 1684.992,682.354 1687.015,682.588 1689.030,682.822 1691.036,683.054 1693.033,683.287 1695.021,683.519 1697.002,683.750 1698.973,683.981 1700.936,684.211 1702.891,684.440 1704.838,684.669 1706.777,684.898 1708.708,685.126 1710.630,685.353 1712.545,685.580 1714.452,685.806 1716.351,686.032 1718.242,686.257 1720.125,686.481 1722.001,686.705 1723.870,686.929 1725.731,687.152 1727.584,687.374 1729.430,687.596 1731.269,687.817 1733.100,688.038 1734.925,688.258 1736.742,688.477 1738.552,688.696 1740.355,688.914 1742.151,689.132 1743.940,689.349 1745.722,689.566 1747.498,689.782 1749.266,689.998 1751.028,690.213 1752.783,690.427 1754.532,690.641 1756.274,690.854 1758.010,691.067 1759.739,691.280 1761.461,691.491 1763.177,691.702 1764.887,691.913 1766.591,692.123 1768.288,692.332 1769.980,692.541 1771.665,692.750 1773.344,692.957 1775.017,693.165 1776.684,693.371 1778.344,693.578 1779.999,693.783 1781.649,693.988 1783.292,694.193 1784.929,694.397 1786.561,694.600 1788.187,694.803 1789.807,695.005 1791.422,695.207 1793.031,695.409 1794.635,695.609 1796.233,695.810 1797.825,696.009 1799.412,696.208 1800.994,696.407 1802.570,696.605 1804.141,696.803 1805.706,697.000 1807.267,697.196 1808.822,697.392 1810.372,697.588 1811.917,697.783 1813.456,697.977 1814.991,698.171 1816.520,698.364 1818.045,698.557 1819.564,698.749 1821.078,698.941 1822.588,699.132 1824.093,699.323 1825.592,699.513 1827.087,699.703 1828.577,699.892 1830.063,700.081 1831.543,700.269 1833.019,700.457 1834.491,700.644 1835.957,700.831 1837.419,701.017 1838.877,701.203 1840.329,701.388 "
+             id="polyline3257"
+             style="fill:none;stroke:#0000ff;stroke-width:1.25;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g3259" />
+        </g>
+        <g
+           id="ID000005"
+           clip-path="url(#ID000001)">
+          <g
+             id="g3262">
+            <polyline
+               points="401.043,307.856 409.043,307.856 "
+               id="polyline3264"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="405.043,303.856 405.043,311.856 "
+               id="polyline3266"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="402.243,310.656 407.843,305.056 "
+               id="polyline3268"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="402.243,305.056 407.843,310.656 "
+               id="polyline3270"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="191.308,568.162 199.308,568.162 "
+               id="polyline3272"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="195.308,564.162 195.308,572.162 "
+               id="polyline3274"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="192.508,570.962 198.108,565.362 "
+               id="polyline3276"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="192.508,565.362 198.108,570.962 "
+               id="polyline3278"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="1470.172,661.077 1478.172,661.077 "
+               id="polyline3280"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="1474.172,657.077 1474.172,665.077 "
+               id="polyline3282"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="1471.372,663.877 1476.972,658.277 "
+               id="polyline3284"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+            <polyline
+               points="1471.372,658.277 1476.972,663.877 "
+               id="polyline3286"
+               style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1;stroke-dasharray:none" />
+          </g>
+        </g>
+        <g
+           id="ID000006">
+          <g
+             transform="translate(427.798,322.757)"
+             id="g3289">
+            <g
+               id="g3291">
+              <text
+                 x="0"
+                 y="0"
+                 font-size="9pt"
+                 id="text3293"
+                 style="font-size:11.25px;text-anchor:start;fill:#000000;font-family:Helvetica">
+                <tspan
+                   style="font-size:20.00000027000000100px;-inkscape-font-specification:Times New Roman;font-family:Times New Roman"
+                   id="tspan4236">SN/LP</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="ID000007">
+          <g
+             transform="translate(239.469,559.53)"
+             id="g3296">
+            <g
+               id="g3298">
+              <text
+                 x="0"
+                 y="0"
+                 font-size="9pt"
+                 id="text3300"
+                 style="font-size:11.25px;text-anchor:start;fill:#000000;font-family:Helvetica">
+                <tspan
+                   style="font-size:20px;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+                   id="tspan4216">HM/LP</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="ID000008">
+          <g
+             transform="translate(1471.731,639.54)"
+             id="g3303">
+            <g
+               id="g3305">
+              <text
+                 x="-1.3641478"
+                 y="12.99338"
+                 font-size="9pt"
+                 id="text3307"
+                 style="font-size:28.85731506000000100px;text-anchor:start;fill:#000000;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+                 transform="scale(0.95160723,1.0508537)">H</text>
+            </g>
+          </g>
+        </g>
+        <g
+           id="ID000009" />
+        <g
+           id="ID000010"
+           clip-path="url(#ID000001)">
+          <polyline
+             points="195.301,568.170 239.976,569.983 280.722,573.223 318.176,574.273 352.830,577.504 385.073,582.051 415.219,584.360 443.524,586.349 470.201,584.222 495.426,584.048 519.350,585.304 542.099,590.222 563.785,589.993 584.501,590.499 604.332,591.083 623.349,591.665 641.617,594.855 659.193,597.027 676.126,597.374 692.463,597.719 708.244,598.128 723.506,598.788 738.281,600.214 752.600,600.660 766.490,601.174 779.976,601.760 793.081,603.611 805.826,604.059 818.230,604.465 830.310,604.913 842.084,605.553 853.567,606.110 864.771,606.544 875.712,606.914 886.400,607.323 896.848,607.755 907.065,608.307 917.062,609.030 926.848,609.726 936.432,610.378 945.822,611.036 955.025,611.761 964.050,612.338 972.902,612.814 981.588,612.998 990.115,613.311 998.487,614.473 1006.711,615.459 1014.792,615.818 1022.734,616.185 1030.543,616.583 1038.222,617.144 1045.776,617.805 1053.209,618.380 1060.525,618.919 1067.727,619.455 1074.820,620.023 1081.805,620.677 1088.686,621.546 1095.467,622.292 1102.150,622.892 1108.739,623.410 1115.235,623.939 1121.641,624.436 1127.960,624.891 1134.194,625.313 1140.345,625.681 1146.416,626.116 1152.408,626.588 1158.324,626.901 1164.165,627.304 1169.934,627.648 1175.632,627.955 1181.261,628.207 1186.822,628.612 1192.317,628.967 1197.748,629.310 1203.116,629.615 1208.422,630.045 1213.669,630.511 1218.857,630.969 1223.987,631.234 1229.062,631.925 1234.081,632.314 1239.047,632.697 1243.960,633.060 1248.821,633.417 1253.632,633.828 1258.394,634.204 1263.107,634.649 1267.773,635.167 1272.392,635.632 1276.966,636.018 1281.495,636.495 1285.981,636.693 1290.423,637.098 1294.823,637.517 1299.182,637.892 1303.500,638.330 1307.779,638.801 1312.018,639.132 1316.219,639.511 1320.382,639.924 1324.508,640.362 1328.598,640.861 1332.652,641.294 1336.671,641.843 1340.655,642.102 1344.606,642.551 1348.523,642.982 1352.407,643.421 1356.259,643.921 1360.079,644.340 1363.868,644.780 1367.626,645.271 1371.355,645.718 1375.053,646.175 1378.722,646.663 1382.362,647.134 1385.974,647.607 1389.558,648.109 1393.115,648.354 1396.644,648.622 1400.147,649.184 1403.624,649.995 1407.074,650.483 1410.499,650.989 1413.899,651.474 1417.275,651.981 1420.626,652.496 1423.953,652.805 1427.256,653.339 1430.536,653.866 1433.792,654.353 1437.027,654.851 1440.238,655.494 1443.428,655.960 1446.596,656.453 1449.742,656.578 1452.867,657.075 1455.971,657.645 1459.055,658.174 1462.118,658.679 1465.161,659.390 1468.184,659.538 1471.188,660.495 1474.172,660.979 "
+             id="polyline3311"
+             style="fill:none;stroke:#000000;stroke-width:1.22500002;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g3313" />
+        </g>
+        <g
+           id="ID000011"
+           clip-path="url(#ID000001)">
+          <polyline
+             points="195.301,704.357 247.872,703.615 295.086,703.306 337.934,704.102 377.155,704.091 413.317,703.333 446.861,703.000 478.142,702.744 507.445,702.579 535.006,701.716 561.021,701.672 585.653,699.024 609.043,699.961 631.309,699.928 652.555,699.956 672.870,699.938 692.333,698.736 711.011,697.051 728.966,697.406 746.252,697.456 762.916,697.512 779.002,697.199 794.549,696.093 809.592,696.178 824.162,696.165 838.288,696.102 851.996,694.611 865.311,693.716 878.254,690.601 890.846,688.263 903.105,685.545 915.048,684.319 926.691,684.330 938.049,684.386 949.135,684.395 959.963,684.366 970.543,684.180 980.888,683.715 991.007,683.326 1000.909,682.907 1010.605,682.472 1020.102,681.829 1029.408,681.258 1038.532,680.924 1047.479,680.571 1056.257,680.317 1064.872,680.042 1073.329,679.754 1081.636,679.479 1089.796,679.219 1097.815,678.922 1105.697,678.655 1113.448,678.330 1121.072,678.083 1128.572,677.788 1135.953,677.436 1143.218,677.077 1150.371,676.701 1157.415,676.191 1164.354,675.856 1171.191,675.403 1177.928,674.947 1184.569,674.509 1191.116,674.110 1197.572,673.711 1203.939,673.317 1210.221,672.912 1216.418,672.556 1222.533,672.208 1228.569,671.879 1234.527,671.560 1240.410,671.270 1246.219,671.032 1251.956,670.762 1257.623,670.527 1263.221,670.299 1268.753,670.068 1274.220,669.842 1279.623,669.668 1284.963,669.472 1290.243,669.269 1295.464,669.069 1300.626,668.915 1305.731,668.670 1310.781,668.531 1315.777,668.534 1320.719,668.241 1325.609,667.973 1330.448,668.009 1335.237,667.801 1339.978,667.648 1344.670,667.477 1349.315,667.511 1353.914,667.172 1358.468,666.849 1362.978,667.041 1367.444,666.810 1371.867,666.648 1376.249,666.335 1380.590,666.321 1384.891,666.137 1389.152,665.863 1393.374,665.628 1397.558,665.372 1401.705,665.214 1405.815,664.957 1409.889,664.819 1413.927,664.532 1417.931,664.389 1421.900,664.142 1425.835,663.895 1429.738,663.711 1433.608,663.485 1437.446,663.321 1441.252,663.282 1445.027,663.011 1448.772,662.593 1452.487,662.547 1456.172,662.131 1459.829,662.110 1463.456,661.819 1467.056,661.567 1470.628,661.264 1474.172,661.092 "
+             id="polyline3316"
+             style="fill:none;stroke:#000000;stroke-width:1.32500005;stroke-miterlimit:4;stroke-dasharray:none" />
+          <g
+             id="g3318" />
+        </g>
+      </g>
+      <g
+         id="g3320">
+        <polyline
+           points="233.614,780.925 233.614,766.887 "
+           id="polyline3322"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="1301.384,780.925 1301.384,766.887 "
+           id="polyline3324"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,780.925 1586.408,780.925 "
+           id="polyline3326"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="184.756,780.925 184.756,773.906 "
+           id="polyline3328"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="555.045,780.925 555.045,773.906 "
+           id="polyline3330"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="743.070,780.925 743.070,773.906 "
+           id="polyline3332"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="876.476,780.925 876.476,773.906 "
+           id="polyline3334"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="979.954,780.925 979.954,773.906 "
+           id="polyline3336"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="1064.501,780.925 1064.501,773.906 "
+           id="polyline3338"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="1135.985,780.925 1135.985,773.906 "
+           id="polyline3340"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="1197.907,780.925 1197.907,773.906 "
+           id="polyline3342"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="1252.526,780.925 1252.526,773.906 "
+           id="polyline3344"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <g
+           transform="translate(233.614,812.848)"
+           id="g3346">
+          <g
+             id="g3348">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3350"
+               style="font-size:13.75px;text-anchor:middle;fill:#000000;font-family:Helvetica">10<tspan
+   font-size="7.9pt"
+   dy="-9.875"
+   id="tspan3352"
+   style="font-size:9.875px">1</tspan>
+</text>
+          </g>
+        </g>
+        <g
+           transform="translate(1301.384,812.848)"
+           id="g3354">
+          <g
+             id="g3356">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3358"
+               style="font-size:13.75px;text-anchor:middle;fill:#000000;font-family:Helvetica">10<tspan
+   font-size="7.9pt"
+   dy="-9.875"
+   id="tspan3360"
+   style="font-size:9.875px">2</tspan>
+</text>
+          </g>
+        </g>
+        <polyline
+           points="182.679,779.461 196.717,779.461 "
+           id="polyline3362"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,685.140 196.717,685.140 "
+           id="polyline3364"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,590.819 196.717,590.819 "
+           id="polyline3366"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,496.498 196.717,496.498 "
+           id="polyline3368"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,402.177 196.717,402.177 "
+           id="polyline3370"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,307.856 196.717,307.856 "
+           id="polyline3372"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,213.535 196.717,213.535 "
+           id="polyline3374"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,119.214 196.717,119.214 "
+           id="polyline3376"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,780.925 182.679,73.517 "
+           id="polyline3378"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <g
+           transform="translate(154.605,784.524)"
+           id="g3380">
+          <g
+             id="g3382">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3384"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">0</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,690.203)"
+           id="g3386">
+          <g
+             id="g3388">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3390"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">0.2</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,595.882)"
+           id="g3392">
+          <g
+             id="g3394">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3396"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">0.4</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,501.561)"
+           id="g3398">
+          <g
+             id="g3400">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3402"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">0.6</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,407.24)"
+           id="g3404">
+          <g
+             id="g3406">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3408"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">0.8</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,312.919)"
+           id="g3410">
+          <g
+             id="g3412">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3414"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">1</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,218.598)"
+           id="g3416">
+          <g
+             id="g3418">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3420"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">1.2</text>
+          </g>
+        </g>
+        <g
+           transform="translate(154.605,124.277)"
+           id="g3422">
+          <g
+             id="g3424">
+            <text
+               x="0"
+               y="0"
+               font-size="11pt"
+               id="text3426"
+               style="font-size:13.75px;text-anchor:end;fill:#000000;font-family:Helvetica">1.4</text>
+          </g>
+        </g>
+        <polyline
+           points="182.679,780.925 182.679,773.851 "
+           id="polyline3428"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,780.925 182.679,773.851 "
+           id="polyline3430"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,780.925 182.679,773.851 "
+           id="polyline3432"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+        <polyline
+           points="182.679,780.925 182.679,780.925 "
+           id="polyline3434"
+           style="fill:none;stroke:#000000;stroke-width:0.5pt;stroke-dasharray:none" />
+      </g>
+    </g>
+    <g
+       id="ID000012">
+      <clipPath
+         id="ID000013">
+        <rect
+           x="0.000"
+           y="0.000"
+           width="1800.000"
+           height="863.438"
+           id="rect3438" />
+      </clipPath>
+      <g
+         id="g3440" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Sans"
+       x="1644.1862"
+       y="476.57065"
+       id="text4220"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4222"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:oblique;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Sans Oblique"
+       x="1548.6072"
+       y="530.04938"
+       id="text4224"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4226"
+         x="1548.6072"
+         y="530.04938"
+         style="font-size:20px;font-style:normal;-inkscape-font-specification:'Times New Roman,'">LP: Limit Point</tspan><tspan
+         sodipodi:role="line"
+         x="1548.6072"
+         y="555.04938"
+         style="font-size:20px;font-style:normal;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan4228">SN: Saddle Node</tspan><tspan
+         sodipodi:role="line"
+         x="1548.6072"
+         y="580.04938"
+         style="font-size:20px;font-style:normal;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan4232">H: Supercritical Hopf</tspan><tspan
+         sodipodi:role="line"
+         x="1548.6072"
+         y="605.04938"
+         style="font-size:20px;font-style:normal;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan4234">HM: Homoclinic   </tspan><tspan
+         sodipodi:role="line"
+         x="1548.6072"
+         y="630.04938"
+         style="font-size:20px;font-style:normal;-inkscape-font-specification:'Times New Roman,'"
+         id="tspan4230" /></text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+\begin{thebibliography}{1}
+
+\bibitem{Alkire2010}
+Michael~T. Alkire.
+\newblock {\em Anesthesia and the Thalamocortical System}.
+\newblock Humana Press, 2010.
+
+\bibitem{Bojak2015}
+Ingo Bojak, Zhivko~Veselinov Stoyanov, and David Liley.
+\newblock Emergence of spatially heterogeneous burst suppression in a neural
+  field model of electrocortical activity.
+\newblock {\em Front. Syst. Neurosci.}, 9:18, 2015.
+
+\bibitem{Brenner1985}
+R.~P. Brenner.
+\newblock The electroencephalogram in altered states of consciousness.
+\newblock {\em Neurol Clin}, 3(3):615--631, August 1985.
+
+\bibitem{Ching2012}
+ShiNung Ching, Patrick~L. Purdon, Sujith Vijayan, Nancy~J. Kopell, and Emery~N.
+  Brown.
+\newblock A neurophysiological-metabolic model for burst suppression.
+\newblock {\em Proc Natl Acad Sci U S A}, 109(8):3095--3100, February 2012.
+
+\bibitem{Lewis2013}
+Laura~D. Lewis, Shinung Ching, Veronica~S. Weiner, Robert~A. Peterfreund,
+  Emad~N. Eskandar, Sydney~S. Cash, Emery~N. Brown, and Patrick~L. Purdon.
+\newblock Local cortical dynamics of burst suppression in the anaesthetized
+  brain.
+\newblock {\em Brain}, 136(Pt 9):2727--2737, September 2013.
+
+\bibitem{Liley2013}
+David T~J. Liley and Matthew Walsh.
+\newblock The mesoscopic modeling of burst suppression during anesthesia.
+\newblock {\em Front Comput Neurosci}, 7:46, 2013.
+
+\bibitem{Liu2014}
+Sensen Liu and ShiNung Ching.
+\newblock A mean field model for neural-metabolic homeostatic coupling in burst
+  suppression.
+\newblock In {\em Conf Proc IEEE Eng Med Biol Soc}, Aug 2014.
+
+\end{thebibliography}
